@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920200593418",
+    "firebase_url": "https://note-app-a497a-default-rtdb.firebaseio.com",
+    "project_id": "note-app-a497a",
+    "storage_bucket": "note-app-a497a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920200593418:android:428161f05945214cb41ff3",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920200593418-sqsgq6d3hfv3q92m0ksap35qv1vt5va8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDV139awOwoj_In23_CRn2aDDH0cO7hgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920200593418-sqsgq6d3hfv3q92m0ksap35qv1vt5va8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
